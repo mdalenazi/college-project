@@ -49,12 +49,16 @@ td {
 }
 /*assignment two css here*/
 .left-col{
-    width: 50%;
+    width: 49%;
     float: left;
+    height: 500px;
+    border: 1px solid red;
 }
 .right-col{
-    width: 50%;
+    width: 49%;
     float: left;
+    height: 500px;
+    border: 1px solid red;
 }
 .btn-submit{
     padding: 10px 30px;
